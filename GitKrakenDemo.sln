@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "GitKraken_DB", "..\GitKraken_DB\GitKraken_DB.sqlproj", "{500AF995-B240-4975-A1DF-5B0284F8FAF0}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQLDB_Demo", "SQLDB_Demo\SQLDB_Demo.sqlproj", "{59084A52-1D9D-4540-AC4D-A93EF9575246}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{500AF995-B240-4975-A1DF-5B0284F8FAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{500AF995-B240-4975-A1DF-5B0284F8FAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{500AF995-B240-4975-A1DF-5B0284F8FAF0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{500AF995-B240-4975-A1DF-5B0284F8FAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{500AF995-B240-4975-A1DF-5B0284F8FAF0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{500AF995-B240-4975-A1DF-5B0284F8FAF0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{59084A52-1D9D-4540-AC4D-A93EF9575246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59084A52-1D9D-4540-AC4D-A93EF9575246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59084A52-1D9D-4540-AC4D-A93EF9575246}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{59084A52-1D9D-4540-AC4D-A93EF9575246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59084A52-1D9D-4540-AC4D-A93EF9575246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59084A52-1D9D-4540-AC4D-A93EF9575246}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
